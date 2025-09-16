@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criação de um código")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53676118012d4c95e04469368692f324e211a0d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criação de um código")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criação de um código")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

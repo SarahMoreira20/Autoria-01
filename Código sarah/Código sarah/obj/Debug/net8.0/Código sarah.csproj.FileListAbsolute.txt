@@ -1,0 +1,15 @@
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\bin\Debug\net8.0\Código sarah.exe
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\bin\Debug\net8.0\Código sarah.deps.json
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\bin\Debug\net8.0\Código sarah.runtimeconfig.json
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\bin\Debug\net8.0\Código sarah.dll
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\bin\Debug\net8.0\Código sarah.pdb
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.AssemblyInfoInputs.cache
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.AssemblyInfo.cs
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.csproj.CoreCompileInputs.cache
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.sourcelink.json
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.dll
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\refint\Código sarah.dll
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.pdb
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\Código sarah.genruntimeconfig.cache
+D:\Sarah Moreira - DDS\Lista-de-Atividades---01\Código sarah\Código sarah\obj\Debug\net8.0\ref\Código sarah.dll
